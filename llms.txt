@@ -1,1 +1,93 @@
+# Logistics & Supply Chain Registry
 
+> A structured editorial reference registry explaining how logistics and supply chain services operate across jurisdictions.
+
+Logistics & Supply Chain Registry provides neutral, jurisdiction-specific reference records. Records cover logistics coordination, freight transport, carrier authority, commercial vehicle compliance, customs, import/export, warehousing, fulfilment, contract logistics, third-party logistics (3PL), tax, permits, relevant authorities, legislation, process, documents, operating conditions and cross-border relevance.
+
+## Core pages
+
+- [Home](https://logisticsregistry.org/): Registry overview and coverage.
+- [Jurisdictions](https://logisticsregistry.org/jurisdictions/): Full jurisdiction directory.
+- [Privacy Policy](https://logisticsregistry.org/privacy-policy/)
+- [Terms of Use](https://logisticsregistry.org/terms-of-use/)
+
+## Jurisdictions
+
+### International
+
+- [International Logistics & Supply Chain](https://logisticsregistry.org/jurisdictions/international/)
+
+### Europe
+
+- [Europe](https://logisticsregistry.org/jurisdictions/europe/)
+- [Austria](https://logisticsregistry.org/jurisdictions/austria/)
+- [Belgium](https://logisticsregistry.org/jurisdictions/belgium/)
+- [Bulgaria](https://logisticsregistry.org/jurisdictions/bulgaria/)
+- [Croatia](https://logisticsregistry.org/jurisdictions/croatia/)
+- [Czech Republic](https://logisticsregistry.org/jurisdictions/czech-republic/)
+- [Denmark](https://logisticsregistry.org/jurisdictions/denmark/)
+- [Finland](https://logisticsregistry.org/jurisdictions/finland/)
+- [France](https://logisticsregistry.org/jurisdictions/france/)
+- [Germany](https://logisticsregistry.org/jurisdictions/germany/)
+- [Greece](https://logisticsregistry.org/jurisdictions/greece/)
+- [Hungary](https://logisticsregistry.org/jurisdictions/hungary/)
+- [Ireland](https://logisticsregistry.org/jurisdictions/ireland/)
+- [Italy](https://logisticsregistry.org/jurisdictions/italy/)
+- [Luxembourg](https://logisticsregistry.org/jurisdictions/luxembourg/)
+- [Netherlands](https://logisticsregistry.org/jurisdictions/netherlands/)
+- [Norway](https://logisticsregistry.org/jurisdictions/norway/)
+- [Poland](https://logisticsregistry.org/jurisdictions/poland/)
+- [Portugal](https://logisticsregistry.org/jurisdictions/portugal/)
+- [Romania](https://logisticsregistry.org/jurisdictions/romania/)
+- [Slovakia](https://logisticsregistry.org/jurisdictions/slovakia/)
+- [Slovenia](https://logisticsregistry.org/jurisdictions/slovenia/)
+- [Spain](https://logisticsregistry.org/jurisdictions/spain/)
+- [Sweden](https://logisticsregistry.org/jurisdictions/sweden/)
+- [Switzerland](https://logisticsregistry.org/jurisdictions/switzerland/)
+- [United Kingdom](https://logisticsregistry.org/jurisdictions/united-kingdom/)
+  - [England & Wales](https://logisticsregistry.org/jurisdictions/united-kingdom/england-wales/)
+  - [Northern Ireland](https://logisticsregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+  - [Scotland](https://logisticsregistry.org/jurisdictions/united-kingdom/scotland/)
+
+### Asia-Pacific
+
+- [Australia](https://logisticsregistry.org/jurisdictions/australia/)
+- [China](https://logisticsregistry.org/jurisdictions/china/)
+- [Hong Kong](https://logisticsregistry.org/jurisdictions/hong-kong/)
+- [India](https://logisticsregistry.org/jurisdictions/india/)
+- [Israel](https://logisticsregistry.org/jurisdictions/israel/)
+- [Japan](https://logisticsregistry.org/jurisdictions/japan/)
+- [New Zealand](https://logisticsregistry.org/jurisdictions/new-zealand/)
+- [Qatar](https://logisticsregistry.org/jurisdictions/qatar/)
+- [Saudi Arabia](https://logisticsregistry.org/jurisdictions/saudi-arabia/)
+- [Singapore](https://logisticsregistry.org/jurisdictions/singapore/)
+- [South Korea](https://logisticsregistry.org/jurisdictions/south-korea/)
+- [United Arab Emirates](https://logisticsregistry.org/jurisdictions/united-arab-emirates/)
+
+### Americas
+
+- [Brazil](https://logisticsregistry.org/jurisdictions/brazil/)
+- [Canada](https://logisticsregistry.org/jurisdictions/canada/)
+  - [Alberta](https://logisticsregistry.org/jurisdictions/canada/alberta/)
+  - [British Columbia](https://logisticsregistry.org/jurisdictions/canada/british-columbia/)
+  - [Ontario](https://logisticsregistry.org/jurisdictions/canada/ontario/)
+  - [Québec](https://logisticsregistry.org/jurisdictions/canada/quebec/)
+- [Mexico](https://logisticsregistry.org/jurisdictions/mexico/)
+- [United States](https://logisticsregistry.org/jurisdictions/united-states/)
+  - [California](https://logisticsregistry.org/jurisdictions/united-states/california/)
+  - [Delaware](https://logisticsregistry.org/jurisdictions/united-states/delaware/)
+  - [Florida](https://logisticsregistry.org/jurisdictions/united-states/florida/)
+  - [Georgia](https://logisticsregistry.org/jurisdictions/united-states/georgia/)
+  - [Illinois](https://logisticsregistry.org/jurisdictions/united-states/illinois/)
+  - [Massachusetts](https://logisticsregistry.org/jurisdictions/united-states/massachusetts/)
+  - [Nevada](https://logisticsregistry.org/jurisdictions/united-states/nevada/)
+  - [New Jersey](https://logisticsregistry.org/jurisdictions/united-states/new-jersey/)
+  - [New York](https://logisticsregistry.org/jurisdictions/united-states/new-york/)
+  - [Pennsylvania](https://logisticsregistry.org/jurisdictions/united-states/pennsylvania/)
+  - [Texas](https://logisticsregistry.org/jurisdictions/united-states/texas/)
+  - [Washington](https://logisticsregistry.org/jurisdictions/united-states/washington/)
+  - [Wyoming](https://logisticsregistry.org/jurisdictions/united-states/wyoming/)
+
+## Intended use
+
+Use this registry to identify the jurisdictional reference record relevant to a logistics or supply chain question. For a live operation, verify current requirements with the competent authority and qualified advisers. Registry content is editorial reference material only and is not legal, tax, Customs or logistics advice.
