@@ -1,1 +1,179 @@
+# Logistics & Supply Chain Registry
 
+> A structured editorial reference registry explaining how logistics and supply chain services operate across international, regional, national and subnational jurisdictions.
+
+## Registry purpose
+
+Logistics & Supply Chain Registry is a neutral editorial reference resource. It documents the legal, administrative and operational architecture relevant to logistics and supply chain services in a consistent jurisdiction-by-jurisdiction format.
+
+The registry is not a marketing directory, carrier marketplace, legal service, tax service, Customs broker, freight forwarder or 3PL provider. It does not issue licences, permits, Customs approvals, tax registrations or professional certifications.
+
+Each jurisdiction record may cover:
+
+- Logistics coordination and supply chain structure
+- Road, rail, sea, air, inland-waterway and multimodal freight movement
+- Carrier authority, operator licensing, safety fitness and commercial vehicle compliance
+- Freight brokerage, freight forwarding, Customs brokerage and Customs representation
+- Import, export, transit, Customs declarations and advance cargo information
+- Tariff classification, Customs value, origin, preference, duty and import tax
+- Customs guarantees, bonds, temporary storage, Customs warehouses, bonded warehouses and free zones
+- Warehousing, fulfilment, contract logistics and third-party logistics (3PL)
+- VAT, GST/HST, sales/use tax, provincial/state tax, business licensing and related tax exposure
+- Oversize/overweight, over-dimensional, heavy-haul, project-cargo and route permits
+- Ports, airports, rail terminals, inland border facilities, bridges, tunnels and local access
+- Environmental, planning, building, fire, land-use, facility, labour and local requirements
+- Cross-border, Customs-union, regional trade, country and subnational interfaces
+- Typical process flow, document sets, operational risks, cost drivers and change management
+
+## Editorial model
+
+Each registry record is organised around a stable editorial model:
+
+1. Definition
+2. Object characteristics
+3. Scope
+4. Purpose and primary outcome
+5. Request contexts, users and scenarios
+6. Jurisdiction characteristics
+7. Key authorities
+8. Applicable legislation and regulatory framework
+9. Process flow and decision tree
+10. Timeline
+11. Required documents
+12. Cross-border relevance
+13. Operating constraints, risks and costs
+14. Frequently asked questions
+15. Related professional areas
+16. Operational considerations
+17. Jurisdictional expert position
+18. Machine layer and entity index
+
+Records are general reference material. Legal, regulatory, Customs, tax and operating requirements change and are fact specific. Verify requirements with the relevant competent authority and qualified advisers for the exact entity, service, vehicle, goods, route, Customs procedure, warehouse and location.
+
+## Core pages
+
+- [Home](https://logisticsregistry.org/)
+- [Jurisdictions](https://logisticsregistry.org/jurisdictions/)
+- [Privacy Policy](https://logisticsregistry.org/privacy-policy/)
+- [Terms of Use](https://logisticsregistry.org/terms-of-use/)
+
+## International baseline
+
+### [International Logistics & Supply Chain](https://logisticsregistry.org/jurisdictions/international/)
+
+Global reference covering international logistics and supply chain compliance. Main themes include cross-border carrier and forwarder roles; exporter, importer of record, declarant and Customs representative roles; Customs import, export and transit; tariff classification, Customs value and origin; duties, VAT/GST/sales tax; advance cargo information; Customs guarantees, bonded/customs warehouses and free zones; global supply-chain security; trade terms; ports, airports, rail and border operations.
+
+Key global framework references include:
+
+- WTO Trade Facilitation Agreement: trade facilitation, release and clearance of goods, transit, border cooperation, electronic processes and single windows.
+- WCO SAFE Framework of Standards: advance electronic cargo information, risk management, Customs-to-Customs cooperation, Customs-to-Business partnership and Authorized Economic Operator concepts.
+- UNECE TIR Convention: qualifying international Customs transit using the TIR Carnet and guarantee system.
+
+## Europe
+
+### [Europe](https://logisticsregistry.org/jurisdictions/europe/)
+
+Regional reference using the European Union regulatory framework as a baseline. It covers EU road-haulage market access, Community licences, cabotage/cross-trade, national carrier admission, EORI, Union Customs Code procedures, transit, temporary storage, Customs warehousing, VAT and Member State/local interfaces. Europe is not a single legal jurisdiction: country-specific records are required for actual operations.
+
+### National and country records
+
+- [Austria](https://logisticsregistry.org/jurisdictions/austria/)
+- [Belgium](https://logisticsregistry.org/jurisdictions/belgium/)
+- [Bulgaria](https://logisticsregistry.org/jurisdictions/bulgaria/)
+- [Croatia](https://logisticsregistry.org/jurisdictions/croatia/)
+- [Czech Republic](https://logisticsregistry.org/jurisdictions/czech-republic/)
+- [Denmark](https://logisticsregistry.org/jurisdictions/denmark/)
+- [Finland](https://logisticsregistry.org/jurisdictions/finland/)
+- [France](https://logisticsregistry.org/jurisdictions/france/)
+- [Germany](https://logisticsregistry.org/jurisdictions/germany/)
+- [Greece](https://logisticsregistry.org/jurisdictions/greece/)
+- [Hungary](https://logisticsregistry.org/jurisdictions/hungary/)
+- [Ireland](https://logisticsregistry.org/jurisdictions/ireland/)
+- [Italy](https://logisticsregistry.org/jurisdictions/italy/)
+- [Luxembourg](https://logisticsregistry.org/jurisdictions/luxembourg/)
+- [Netherlands](https://logisticsregistry.org/jurisdictions/netherlands/)
+- [Norway](https://logisticsregistry.org/jurisdictions/norway/)
+- [Poland](https://logisticsregistry.org/jurisdictions/poland/)
+- [Portugal](https://logisticsregistry.org/jurisdictions/portugal/)
+- [Romania](https://logisticsregistry.org/jurisdictions/romania/)
+- [Slovakia](https://logisticsregistry.org/jurisdictions/slovakia/)
+- [Slovenia](https://logisticsregistry.org/jurisdictions/slovenia/)
+- [Spain](https://logisticsregistry.org/jurisdictions/spain/)
+- [Sweden](https://logisticsregistry.org/jurisdictions/sweden/)
+- [Switzerland](https://logisticsregistry.org/jurisdictions/switzerland/)
+
+### [United Kingdom](https://logisticsregistry.org/jurisdictions/united-kingdom/)
+
+National UK reference covering goods vehicle operator licensing, transport managers, international road haulage, UK Licence for the Community, International Road Haulage Permits, HMRC Customs, EORI, Customs Declaration Service, VAT, transit, temporary storage, Customs warehousing, warehousing, fulfilment and Great Britain/Northern Ireland interfaces.
+
+- [England & Wales](https://logisticsregistry.org/jurisdictions/united-kingdom/england-wales/): Great Britain operator licensing, GB EORI/CDS, VAT and England/Wales environmental, planning and local facility interfaces.
+- [Northern Ireland](https://logisticsregistry.org/jurisdictions/united-kingdom/northern-ireland/): Northern Ireland goods vehicle operator licensing, Great Britain–Northern Ireland/Republic of Ireland/EU movement, GB/XI EORI, CDS, UK Internal Market Scheme, VAT, DAERA/NIEA and local facility interfaces.
+- [Scotland](https://logisticsregistry.org/jurisdictions/united-kingdom/scotland/): Scotland traffic area operator licensing, GB EORI/CDS, VAT, SEPA, Scottish facility, port, ferry, island and local interfaces.
+
+## Asia-Pacific
+
+- [Australia](https://logisticsregistry.org/jurisdictions/australia/)
+- [China](https://logisticsregistry.org/jurisdictions/china/)
+- [Hong Kong](https://logisticsregistry.org/jurisdictions/hong-kong/)
+- [India](https://logisticsregistry.org/jurisdictions/india/)
+- [Israel](https://logisticsregistry.org/jurisdictions/israel/)
+- [Japan](https://logisticsregistry.org/jurisdictions/japan/)
+- [New Zealand](https://logisticsregistry.org/jurisdictions/new-zealand/)
+- [Qatar](https://logisticsregistry.org/jurisdictions/qatar/)
+- [Saudi Arabia](https://logisticsregistry.org/jurisdictions/saudi-arabia/)
+- [Singapore](https://logisticsregistry.org/jurisdictions/singapore/)
+- [South Korea](https://logisticsregistry.org/jurisdictions/south-korea/)
+- [United Arab Emirates](https://logisticsregistry.org/jurisdictions/united-arab-emirates/)
+
+## Americas
+
+- [Brazil](https://logisticsregistry.org/jurisdictions/brazil/)
+- [Mexico](https://logisticsregistry.org/jurisdictions/mexico/)
+
+### [Canada](https://logisticsregistry.org/jurisdictions/canada/)
+
+National Canadian reference covering federal Customs, CBSA CARM, Business Number (BN9), import-export program account (RM), BN15, carrier codes, eManifest/Advance Commercial Information, GST/HST and provincial/territorial carrier, National Safety Code, vehicle, tax, permit and facility interfaces.
+
+- [Alberta](https://logisticsregistry.org/jurisdictions/canada/alberta/): Safety Fitness Certificate, National Safety Code, carrier profile, Pre-entry Program, TRAVIS weight/dimension permits, CBSA CARM, GST and energy/project-cargo interfaces.
+- [British Columbia](https://logisticsregistry.org/jurisdictions/canada/british-columbia/): CVSE/NSC, Commercial Transport permits, onRouteBC, extraordinary loads, CBSA CARM, GST/PST, Pacific ports and Canada–U.S. interfaces.
+- [Ontario](https://logisticsregistry.org/jurisdictions/canada/ontario/): CVOR, National Safety Code, MTO oversize/overweight permits, CBSA CARM, GST/HST, Ontario tax and Canada–U.S. border interfaces.
+- [Québec](https://logisticsregistry.org/jurisdictions/canada/quebec/): CTQ heavy-vehicle owner/operator register and RIN, SAAQ/MTMD special permits, CBSA CARM, GST/QST, French-language and Canada–U.S. interfaces.
+
+### [United States](https://logisticsregistry.org/jurisdictions/united-states/)
+
+National United States reference for federal transport, Customs, tax and supply chain interfaces. State records add state-specific carrier, commercial-vehicle, oversize/overweight, tax, warehouse, local and facility requirements.
+
+- [California](https://logisticsregistry.org/jurisdictions/united-states/california/)
+- [Delaware](https://logisticsregistry.org/jurisdictions/united-states/delaware/)
+- [Florida](https://logisticsregistry.org/jurisdictions/united-states/florida/)
+- [Georgia](https://logisticsregistry.org/jurisdictions/united-states/georgia/)
+- [Illinois](https://logisticsregistry.org/jurisdictions/united-states/illinois/)
+- [Massachusetts](https://logisticsregistry.org/jurisdictions/united-states/massachusetts/)
+- [Nevada](https://logisticsregistry.org/jurisdictions/united-states/nevada/)
+- [New Jersey](https://logisticsregistry.org/jurisdictions/united-states/new-jersey/)
+- [New York](https://logisticsregistry.org/jurisdictions/united-states/new-york/)
+- [Pennsylvania](https://logisticsregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Texas](https://logisticsregistry.org/jurisdictions/united-states/texas/)
+- [Washington](https://logisticsregistry.org/jurisdictions/united-states/washington/)
+- [Wyoming](https://logisticsregistry.org/jurisdictions/united-states/wyoming/)
+
+## Interpretation rules
+
+When using a registry record, identify all of the following before relying on any general statement:
+
+1. Legal entity and country/state/province of establishment
+2. Commercial role: seller, buyer, exporter, importer, declarant, carrier, broker, forwarder, Customs representative, warehousekeeper, 3PL or other role
+3. Country, state/province and locality of origin, transit, destination, warehouse and delivery
+4. Mode: road, rail, sea, air, inland waterway, courier or multimodal
+5. Vehicle/vessel/aircraft type, weight, dimensions, operator and driver/crew status
+6. Goods description, HS classification, value, origin, preference, end use and controlled/dangerous status
+7. Customs procedure: export, import, transit, temporary storage, Customs/bonded warehouse, free zone or other special procedure
+8. VAT/GST/sales-tax and business-tax position
+9. Facility, planning, environmental, fire, security, parking/loading and local route status
+10. Commercial contracts, Incoterms, insurance, payment, data and liability allocation
+
+## Intended use and limitation
+
+Registry material is designed to support orientation, issue spotting, jurisdiction selection and structured research. It is not legal, tax, Customs, financial, transport, safety, engineering or operational advice. It is not a substitute for current official guidance, binding authority decisions, permits, licences, declarations, applications, professional review or contract-specific analysis.
+
+Always verify current requirements with the competent authority and qualified advisers for the precise operation.
